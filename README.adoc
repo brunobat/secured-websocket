@@ -4,7 +4,7 @@ This is a companion example of a Tomitrib.com blog post.
 
 Uses arquilian tests to demonstrate how to secure a websocket connection with basic authentication.
 
-The allowed users can be configures in src/main/tomee/conf/tomcat-users.xml
+The allowed users can be configured in src/main/tomee/conf/tomcat-users.xml
 
 == How to run
 
